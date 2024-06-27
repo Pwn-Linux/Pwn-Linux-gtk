@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Pwn
+Comment=Pwn Linux theme highly inspired by macOS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Pwn
+MetacityTheme=Pwn
+IconTheme=La Capitaine
+CursorTheme=DMZ-Black
+ButtonLayout=close,minimize,maximize:
